@@ -83,6 +83,7 @@ function convert_file {
   echo "<!DOCTYPE html>
 <html ${THEME}>
   <head>
+    <meta charset=\"UTF-8\">
     <style>
       :root {
         --svg-size : 2rem;
